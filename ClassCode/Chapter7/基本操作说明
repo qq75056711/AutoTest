@@ -1,1 +1,5 @@
-java -jar ./moco-runner-0.11.0-standalone.jar http -p 8888 -c startup1.json
+
+1.cd到当前目录下，再执行如下命令：
+2.java -jar ./moco-runner-0.11.0-standalone.jar http -p 8888 -c startup1.json
+
+java -jar ./moco-runner-0.11.0-standalone.jar http -p 8888 -c startupWithHeader.json
